@@ -1,0 +1,8 @@
+train: C:\Users\PC\PycharmProjects\Yolo_car_detection\trainYOLO\dataset\images\train
+val: C:\Users\PC\PycharmProjects\Yolo_car_detection\trainYOLO\dataset\images\val
+
+# Кількість класів
+nc: 1
+
+# Назви класів
+names: ['car']
